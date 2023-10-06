@@ -11,5 +11,4 @@ I introduced a text_to_vector function which is a placeholder for actual vector 
 Adjustments for Vector Dimensionality:
 Modifications were made to handle vector dimensionality mismatch errors.
 
-Message Handling Modifications:
-There seem to be adjustments in the way messages are handled, particularly in functions like text_message and voice_message, though without the original code, it's hard to detail the specifics.
+Message Handling Modifications
