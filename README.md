@@ -1,7 +1,5 @@
 # telegram-lab-assistant MODIFIED
 
-Modifications:
-Pinecone Initialization and Usage:
 
 Modifications:
 Pinecone Initialization and Usage:
